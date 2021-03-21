@@ -1,1 +1,1 @@
-https://IrynaD-87.github.io/html-academy/
+https://irynad-87.github.io/html-academy/index.html
